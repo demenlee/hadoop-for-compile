@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.microsoft.azure:azure-data-lake-store-sdk:2.2.7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/microsoft/azure/azure-data-lake-store-sdk/2.2.7/azure-data-lake-store-sdk-2.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/microsoft/azure/azure-data-lake-store-sdk/2.2.7/azure-data-lake-store-sdk-2.2.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/microsoft/azure/azure-data-lake-store-sdk/2.2.7/azure-data-lake-store-sdk-2.2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
